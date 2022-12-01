@@ -1,4 +1,7 @@
-# RecipeRecommender
+# Building a Hybrid Food Recommendation system
 
-refrences:
+## Architecture
+![image info](./images/architecture.png)
+
+References:
 https://www.kaggle.com/code/ashwinik/recipe-recommendation-bert-sentence-embedding
